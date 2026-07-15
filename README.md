@@ -1,0 +1,1 @@
+# shopee_store_list
